@@ -3,16 +3,16 @@
   "_type": "food",
   "definition": {
     "renderType": 0,
-    "texture": "pumpkinslice",
+    "texture": "gebackenerkurbis",
     "customModelName": "Normal",
-    "name": "Kürbisscheibe",
+    "name": "Gebackener Kürbis",
     "rarity": "COMMON",
     "specialInfo": [],
     "creativeTab": {
       "value": "FOOD"
     },
     "stackSize": 64,
-    "nutritionalValue": 1,
+    "nutritionalValue": 4,
     "saturation": 0.3,
     "eatingSpeed": 32,
     "resultItem": {
