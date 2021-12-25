@@ -3,9 +3,9 @@
   "experience": 1,
   "cookingtime": 175,
   "ingredient": {
-    "item": "vfe:deleted_mod_element"
+    "item": "vfe:kurbisscheibe"
   },
   "result": {
-    "item": "vfe:deleted_mod_element"
+    "item": "vfe:gebackener_kurbis"
   }
 }
