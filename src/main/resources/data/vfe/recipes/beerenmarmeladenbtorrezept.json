@@ -1,18 +1,15 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "01"
-  ],
-  "key": {
-    "0": {
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
       "item": "minecraft:bread"
     },
-    "1": {
+    {
       "item": "vfe:beerenmarmelade"
     }
-  },
+  ],
   "result": {
-    "item": "vfe:beerenmarmeladenbrot",
+    "item": "vfe:beerenmarmeladebrot",
     "count": 1
   }
 }

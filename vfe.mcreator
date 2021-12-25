@@ -2,15 +2,6 @@
   "id_map": {},
   "mod_elements": [
     {
-      "name": "Test",
-      "type": "item",
-      "sortid": 1,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "test"
-    },
-    {
       "name": "Apfelmarmelade",
       "type": "item",
       "sortid": 3,
@@ -18,15 +9,6 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "apfelmarmelade"
-    },
-    {
-      "name": "Marmeladenbrot",
-      "type": "item",
-      "sortid": 4,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "marmeladenbrot"
     },
     {
       "name": "Apfelmarmeladenrezept",
@@ -128,6 +110,15 @@
       "registry_name": "beerenmarmeladenbtorrezept"
     },
     {
+      "name": "Beerenmarmeladenbrot",
+      "type": "food",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "beerenmarmeladenbrot"
+    },
+    {
       "name": "Marmeladenbrotneu",
       "type": "food",
       "sortid": 12,
@@ -137,13 +128,40 @@
       "registry_name": "marmeladenbrotneu"
     },
     {
-      "name": "Beerenmarmeladenbrot",
+      "name": "Apfelmarmeladenbrot",
       "type": "food",
       "sortid": 13,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "beerenmarmeladenbrot"
+      "registry_name": "apfelmarmeladenbrot"
+    },
+    {
+      "name": "Marmeladenbrotfood",
+      "type": "food",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "beerenmarmeladebrot"
+    },
+    {
+      "name": "Broetchenrezept",
+      "type": "recipe",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "broetchenrezept"
+    },
+    {
+      "name": "Brotchen",
+      "type": "food",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "brotchen"
     }
   ],
   "variable_elements": [],
@@ -153,10 +171,8 @@
       "item.vfe.test": "Test",
       "item.vfe.marmeldenpresse": "Marmeldenpresse",
       "item.vfe.beerenmarmelade": "Beerenmarmelade",
-      "item.vfe.marmeladenbrotneu": "Marmeladenbrotneu",
       "item.vfe.joghurt": "Joghurt",
       "item.vfe.zuckerstange": "Zuckerstange",
-      "item.vfe.beerenmarmeladenbrot": "Beerenmarmeladenbrot",
       "item.vfe.apfelmarmelade": "Apfelmarmelade",
       "item.vfe.marmeladenbrot": "Marmeladenbrot"
     }
