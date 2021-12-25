@@ -5,7 +5,7 @@
     "renderType": 0,
     "texture": "beerenpresse",
     "customModelName": "Normal",
-    "name": "Marmeldenpresse",
+    "name": "Presse",
     "rarity": "COMMON",
     "creativeTab": {
       "value": "MISC"

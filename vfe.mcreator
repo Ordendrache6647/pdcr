@@ -326,15 +326,6 @@
       "registry_name": "gebackener_kurbis_rezept"
     },
     {
-      "name": "GebackeneSamen",
-      "type": "food",
-      "sortid": 35,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "gebackene_samen"
-    },
-    {
       "name": "Gebackenesamenrezept",
       "type": "recipe",
       "sortid": 36,
@@ -353,13 +344,13 @@
       "registry_name": "gebackenesamenkurbisrezept"
     },
     {
-      "name": "Gebackenesamenmelonrezept",
-      "type": "recipe",
-      "sortid": 38,
+      "name": "GebackeneSamen",
+      "type": "food",
+      "sortid": 35,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "gebackenesamenmelonrezept"
+      "registry_name": "gebackene_samen"
     },
     {
       "name": "Gebackenesamenbeetrootrezept",
@@ -369,6 +360,24 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "gebackenesamenbeetrootrezept"
+    },
+    {
+      "name": "Gebackenesamenmelonrezept",
+      "type": "recipe",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gebackenesamenmelonrezept"
+    },
+    {
+      "name": "Salat",
+      "type": "plant",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "salat"
     }
   ],
   "variable_elements": [],
@@ -376,24 +385,19 @@
   "language_map": {
     "en_us": {
       "item.vfe.test": "Test",
-      "item.vfe.kurbisscheibe": "Kürbisscheibe",
       "item.vfe.beerenmarmeladebrot": "Marmeladenbrot (Beeren)",
       "item.vfe.joghurt": "Joghurt",
       "item.vfe.zuckerstange": "Zuckerstange",
       "item.vfe.apfelmarmeladenbrot": "Marmeladenbrot (Apfel)",
       "item.vfe.gemuesesuppe": "Gemüsesuppe",
       "item.vfe.apfelmarmelade": "Apfelmarmelade",
-      "item.vfe.apfelsaft": "Apfelsaft",
       "item.vfe.marmeldenpresse": "Marmeldenpresse",
       "item.vfe.beerenmarmelade": "Beerenmarmelade",
-      "item.vfe.beerensaft": "Beerensaft",
       "item.vfe.rbsuppengemuse": "Suppengemüse",
       "item.vfe.schneidebrett": "Schneidebrett",
       "item.vfe.stgemuesesuppe": "Fleischeintopf",
       "item.vfe.brotchen": "Brötchen",
-      "item.vfe.gebackener_kurbis": "Gebackener Kürbis",
       "item.vfe.messer": "Messer",
-      "item.vfe.gebackene_samen": "Gebackene Samen",
       "item.vfe.marmeladenbrot": "Marmeladenbrot"
     }
   },

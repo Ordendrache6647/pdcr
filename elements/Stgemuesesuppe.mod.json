@@ -3,7 +3,7 @@
   "_type": "food",
   "definition": {
     "renderType": 0,
-    "texture": "fleischeintopf",
+    "texture": "gemuessuppetextur",
     "customModelName": "Normal",
     "name": "Fleischeintopf",
     "rarity": "COMMON",
