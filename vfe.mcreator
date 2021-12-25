@@ -288,6 +288,24 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "beerensaftrezept"
+    },
+    {
+      "name": "Kurbisscheibe",
+      "type": "food",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "kurbisscheibe"
+    },
+    {
+      "name": "Kurbisscheiben",
+      "type": "recipe",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "kurbisscheiben"
     }
   ],
   "variable_elements": [],
@@ -296,6 +314,7 @@
     "en_us": {
       "item.vfe.test": "Test",
       "item.vfe.beerenmarmeladebrot": "Marmeladenbrot (Beeren)",
+      "item.vfe.kurbisscheibe": "Kurbisscheibe",
       "item.vfe.joghurt": "Joghurt",
       "item.vfe.zuckerstange": "Zuckerstange",
       "item.vfe.apfelmarmeladenbrot": "Marmeladenbrot (Apfel)",

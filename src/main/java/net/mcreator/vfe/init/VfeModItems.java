@@ -17,6 +17,7 @@ import net.mcreator.vfe.item.RbsuppengemuseItem;
 import net.mcreator.vfe.item.MesserItem;
 import net.mcreator.vfe.item.MarmeldenpresseItem;
 import net.mcreator.vfe.item.MarmeladenbrotfoodItem;
+import net.mcreator.vfe.item.KurbisscheibeItem;
 import net.mcreator.vfe.item.JoghurtItem;
 import net.mcreator.vfe.item.GemuesesuppeItem;
 import net.mcreator.vfe.item.BrotchenItem;
@@ -47,6 +48,7 @@ public class VfeModItems {
 	public static final Item STGEMUESESUPPE = register(new StgemuesesuppeItem());
 	public static final Item APFELSAFT = register(new ApfelsaftItem());
 	public static final Item BEERENSAFT = register(new BeerensaftItem());
+	public static final Item KURBISSCHEIBE = register(new KurbisscheibeItem());
 
 	private static Item register(Item item) {
 		REGISTRY.add(item);
