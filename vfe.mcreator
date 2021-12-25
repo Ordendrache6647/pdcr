@@ -110,15 +110,6 @@
       "registry_name": "beerenmarmelade"
     },
     {
-      "name": "Beerenmarmeladenbrote",
-      "type": "item",
-      "sortid": 9,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "beerenmarmeladenbrote"
-    },
-    {
       "name": "Beerenmarmeladenrezept",
       "type": "recipe",
       "sortid": 10,
@@ -135,6 +126,24 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "beerenmarmeladenbtorrezept"
+    },
+    {
+      "name": "Marmeladenbrotneu",
+      "type": "food",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "marmeladenbrotneu"
+    },
+    {
+      "name": "Beerenmarmeladenbrot",
+      "type": "food",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "beerenmarmeladenbrot"
     }
   ],
   "variable_elements": [],
@@ -143,10 +152,11 @@
     "en_us": {
       "item.vfe.test": "Test",
       "item.vfe.marmeldenpresse": "Marmeldenpresse",
-      "item.vfe.beerenmarmeladenbrote": "Beerenmarmeladenbrote",
       "item.vfe.beerenmarmelade": "Beerenmarmelade",
+      "item.vfe.marmeladenbrotneu": "Marmeladenbrotneu",
       "item.vfe.joghurt": "Joghurt",
       "item.vfe.zuckerstange": "Zuckerstange",
+      "item.vfe.beerenmarmeladenbrot": "Beerenmarmeladenbrot",
       "item.vfe.apfelmarmelade": "Apfelmarmelade",
       "item.vfe.marmeladenbrot": "Marmeladenbrot"
     }

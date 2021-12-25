@@ -38,7 +38,7 @@
       }
     ],
     "recipeReturnStack": {
-      "value": "CUSTOM:Beerenmarmeladenbrote"
+      "value": "CUSTOM:Beerenmarmeladenbrot"
     },
     "name": "beerenmarmeladenbtorrezept",
     "namespace": "mod"
