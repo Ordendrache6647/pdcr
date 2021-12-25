@@ -1,14 +1,15 @@
 {
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    "01"
+    "0",
+    "1"
   ],
   "key": {
     "0": {
       "item": "vfe:apfelmarmelade"
     },
     "1": {
-      "item": "minecraft:bread"
+      "item": "vfe:brotchen"
     }
   },
   "result": {
