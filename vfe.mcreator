@@ -261,6 +261,33 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "apfelsaft"
+    },
+    {
+      "name": "Apfelsaftrezept",
+      "type": "recipe",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "apfelsaftrezept"
+    },
+    {
+      "name": "Beerensaft",
+      "type": "food",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "beerensaft"
+    },
+    {
+      "name": "Beerensaftrezept",
+      "type": "recipe",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "beerensaftrezept"
     }
   ],
   "variable_elements": [],
@@ -277,6 +304,7 @@
       "item.vfe.apfelsaft": "Apfelsaft",
       "item.vfe.marmeldenpresse": "Marmeldenpresse",
       "item.vfe.beerenmarmelade": "Beerenmarmelade",
+      "item.vfe.beerensaft": "Beerensaft",
       "item.vfe.rbsuppengemuse": "Rotebeetesuppengemüse",
       "item.vfe.schneidebrett": "Schneidebrett",
       "item.vfe.stgemuesesuppe": "Fleischeintopf",

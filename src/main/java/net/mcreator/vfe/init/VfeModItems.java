@@ -20,6 +20,7 @@ import net.mcreator.vfe.item.MarmeladenbrotfoodItem;
 import net.mcreator.vfe.item.JoghurtItem;
 import net.mcreator.vfe.item.GemuesesuppeItem;
 import net.mcreator.vfe.item.BrotchenItem;
+import net.mcreator.vfe.item.BeerensaftItem;
 import net.mcreator.vfe.item.BeerenmarmeladeItem;
 import net.mcreator.vfe.item.ApfelsaftItem;
 import net.mcreator.vfe.item.ApfelmarmeladenbrotItem;
@@ -45,6 +46,7 @@ public class VfeModItems {
 	public static final Item GEMUESESUPPE = register(new GemuesesuppeItem());
 	public static final Item STGEMUESESUPPE = register(new StgemuesesuppeItem());
 	public static final Item APFELSAFT = register(new ApfelsaftItem());
+	public static final Item BEERENSAFT = register(new BeerensaftItem());
 
 	private static Item register(Item item) {
 		REGISTRY.add(item);
