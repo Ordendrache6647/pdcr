@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1",
+    "23"
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:water_bucket"
+    },
+    "2": {
+      "item": "vfe:marmeldenpresse"
+    },
+    "3": {
+      "item": "minecraft:apple"
+    }
+  },
+  "result": {
+    "item": "vfe:deleted_mod_element",
+    "count": 8
+  }
+}

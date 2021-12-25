@@ -261,6 +261,78 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "salat"
+    },
+    {
+      "name": "Beerensaftrezept",
+      "type": "recipe",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "beerensaftrezept"
+    },
+    {
+      "name": "GebackenerKurbisRezept",
+      "type": "recipe",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gebackener_kurbis_rezept"
+    },
+    {
+      "name": "GebackenerKurbis",
+      "type": "food",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gebackener_kurbis"
+    },
+    {
+      "name": "Apfelsaftrezept",
+      "type": "recipe",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "apfelsaftrezept"
+    },
+    {
+      "name": "Apfelsaft",
+      "type": "food",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "apfelsaft"
+    },
+    {
+      "name": "Kurbisscheiben",
+      "type": "recipe",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "kurbisscheiben"
+    },
+    {
+      "name": "Beerensaft",
+      "type": "food",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "beerensaft"
+    },
+    {
+      "name": "Kurbisscheibe",
+      "type": "food",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "kurbisscheibe"
     }
   ],
   "variable_elements": [],
@@ -268,14 +340,13 @@
   "language_map": {
     "en_us": {
       "item.vfe.test": "Test",
-      "block.vfe.salat": "Salat",
       "item.vfe.beerenmarmeladebrot": "Marmeladenbrot (Beeren)",
       "item.vfe.joghurt": "Joghurt",
       "item.vfe.zuckerstange": "Zuckerstange",
       "item.vfe.apfelmarmeladenbrot": "Marmeladenbrot (Apfel)",
       "item.vfe.gemuesesuppe": "Gemüsesuppe",
       "item.vfe.apfelmarmelade": "Apfelmarmelade",
-      "item.vfe.marmeldenpresse": "Presse",
+      "item.vfe.marmeldenpresse": "Marmeldenpresse",
       "item.vfe.beerenmarmelade": "Beerenmarmelade",
       "item.vfe.rbsuppengemuse": "Rotebeetesuppengemüse",
       "item.vfe.schneidebrett": "Schneidebrett",
