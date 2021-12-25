@@ -252,6 +252,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "stgemuesesuppe"
+    },
+    {
+      "name": "Apfelsaft",
+      "type": "food",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "apfelsaft"
     }
   ],
   "variable_elements": [],
@@ -265,6 +274,7 @@
       "item.vfe.apfelmarmeladenbrot": "Marmeladenbrot (Apfel)",
       "item.vfe.gemuesesuppe": "Gemüsesuppe",
       "item.vfe.apfelmarmelade": "Apfelmarmelade",
+      "item.vfe.apfelsaft": "Apfelsaft",
       "item.vfe.marmeldenpresse": "Marmeldenpresse",
       "item.vfe.beerenmarmelade": "Beerenmarmelade",
       "item.vfe.rbsuppengemuse": "Rotebeetesuppengemüse",
