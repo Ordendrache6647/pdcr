@@ -331,8 +331,8 @@
   "language_map": {
     "en_us": {
       "item.vfe.test": "Test",
-      "item.vfe.kurbisscheibe": "Kürbisscheibe",
       "item.vfe.beerenmarmeladebrot": "Marmeladenbrot (Beeren)",
+      "item.vfe.kurbisscheibe": "Kürbisscheibe",
       "item.vfe.joghurt": "Joghurt",
       "item.vfe.zuckerstange": "Zuckerstange",
       "item.vfe.apfelmarmeladenbrot": "Marmeladenbrot (Apfel)",
