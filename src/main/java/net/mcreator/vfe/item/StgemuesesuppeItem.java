@@ -6,12 +6,12 @@ import net.minecraft.world.item.Item;
 import net.minecraft.world.item.CreativeModeTab;
 import net.minecraft.world.food.FoodProperties;
 
-public class GemuesesuppeItem extends Item {
-	public GemuesesuppeItem() {
+public class StgemuesesuppeItem extends Item {
+	public StgemuesesuppeItem() {
 		super(new Item.Properties().tab(CreativeModeTab.TAB_FOOD).stacksTo(64).rarity(Rarity.COMMON)
-				.food((new FoodProperties.Builder()).nutrition(10).saturationMod(0.3f)
+				.food((new FoodProperties.Builder()).nutrition(12).saturationMod(0.3f)
 
 						.build()));
-		setRegistryName("gemuesesuppe");
+		setRegistryName("stgemuesesuppe");
 	}
 }

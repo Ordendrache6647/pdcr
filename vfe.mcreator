@@ -216,6 +216,42 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "gemuesuppe"
+    },
+    {
+      "name": "Schneidebrettdarkoak",
+      "type": "recipe",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "schneidebrettdarkoak"
+    },
+    {
+      "name": "Schneidebrettspruce",
+      "type": "recipe",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "schneidebrettspruce"
+    },
+    {
+      "name": "Stsuppenrezept",
+      "type": "recipe",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stsuppenrezept"
+    },
+    {
+      "name": "Stgemuesesuppe",
+      "type": "food",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stgemuesesuppe"
     }
   ],
   "variable_elements": [],
@@ -233,6 +269,7 @@
       "item.vfe.beerenmarmelade": "Beerenmarmelade",
       "item.vfe.rbsuppengemuse": "Rotebeetesuppengemüse",
       "item.vfe.schneidebrett": "Schneidebrett",
+      "item.vfe.stgemuesesuppe": "Gemüsesuppe",
       "item.vfe.brotchen": "Brötchen",
       "item.vfe.messer": "Messer",
       "item.vfe.marmeladenbrot": "Marmeladenbrot"
