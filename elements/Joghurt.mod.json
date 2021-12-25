@@ -16,7 +16,7 @@
     "saturation": 0.7000000000000001,
     "eatingSpeed": 32,
     "resultItem": {
-      "value": ""
+      "value": "Items.BOWL"
     },
     "forDogs": false,
     "isAlwaysEdible": false,
