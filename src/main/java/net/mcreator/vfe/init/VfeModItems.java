@@ -12,6 +12,7 @@ import net.minecraft.world.item.Item;
 
 import net.mcreator.vfe.item.ZuckerstangeItem;
 import net.mcreator.vfe.item.SchneidebrettItem;
+import net.mcreator.vfe.item.RbsuppengemuseItem;
 import net.mcreator.vfe.item.MesserItem;
 import net.mcreator.vfe.item.MarmeldenpresseItem;
 import net.mcreator.vfe.item.MarmeladenbrotfoodItem;
@@ -37,6 +38,7 @@ public class VfeModItems {
 	public static final Item BROTCHEN = register(new BrotchenItem());
 	public static final Item SCHNEIDEBRETT = register(new SchneidebrettItem());
 	public static final Item MESSER = register(new MesserItem());
+	public static final Item RBSUPPENGEMUSE = register(new RbsuppengemuseItem());
 
 	private static Item register(Item item) {
 		REGISTRY.add(item);

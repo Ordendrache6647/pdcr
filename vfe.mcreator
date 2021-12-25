@@ -180,6 +180,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "messer"
+    },
+    {
+      "name": "Rbsuppengemuse",
+      "type": "item",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rbsuppengemuse"
     }
   ],
   "variable_elements": [],
@@ -189,11 +198,12 @@
       "item.vfe.test": "Test",
       "item.vfe.beerenmarmeladebrot": "Marmeladenbrot (Beeren)",
       "item.vfe.joghurt": "Joghurt",
-      "item.vfe.apfelmarmeladenbrot": "Marmeladenbrot (Apfel)",
       "item.vfe.zuckerstange": "Zuckerstange",
+      "item.vfe.apfelmarmeladenbrot": "Marmeladenbrot (Apfel)",
       "item.vfe.apfelmarmelade": "Apfelmarmelade",
       "item.vfe.marmeldenpresse": "Marmeldenpresse",
       "item.vfe.beerenmarmelade": "Beerenmarmelade",
+      "item.vfe.rbsuppengemuse": "Rotebeetesuppengemüse",
       "item.vfe.schneidebrett": "Schneidebrett",
       "item.vfe.brotchen": "Brötchen",
       "item.vfe.messer": "Messer",
