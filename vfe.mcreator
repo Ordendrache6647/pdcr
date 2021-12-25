@@ -2,15 +2,6 @@
   "id_map": {},
   "mod_elements": [
     {
-      "name": "Test",
-      "type": "item",
-      "sortid": 1,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "test"
-    },
-    {
       "name": "Apfelmarmelade",
       "type": "item",
       "sortid": 3,
@@ -18,15 +9,6 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "apfelmarmelade"
-    },
-    {
-      "name": "Marmeladenbrot",
-      "type": "item",
-      "sortid": 4,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "marmeladenbrot"
     },
     {
       "name": "Apfelmarmeladenrezept",
@@ -110,15 +92,6 @@
       "registry_name": "beerenmarmelade"
     },
     {
-      "name": "Beerenmarmeladenbrote",
-      "type": "item",
-      "sortid": 9,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "beerenmarmeladenbrote"
-    },
-    {
       "name": "Beerenmarmeladenrezept",
       "type": "recipe",
       "sortid": 10,
@@ -135,20 +108,56 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "beerenmarmeladenbtorrezept"
+    },
+    {
+      "name": "Marmeladenbrotfood",
+      "type": "food",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "beerenmarmeladebrot"
+    },
+    {
+      "name": "Apfelmarmeladenbrot",
+      "type": "food",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "apfelmarmeladenbrot"
+    },
+    {
+      "name": "Brotchen",
+      "type": "food",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "brotchen"
+    },
+    {
+      "name": "Broetchenrezept",
+      "type": "recipe",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "broetchenrezept"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "item.vfe.test": "Test",
       "item.vfe.marmeldenpresse": "Marmeldenpresse",
-      "item.vfe.beerenmarmeladenbrote": "Beerenmarmeladenbrote",
       "item.vfe.beerenmarmelade": "Beerenmarmelade",
+      "item.vfe.beerenmarmeladebrot": "Marmeladenbrot (Beeren)",
       "item.vfe.joghurt": "Joghurt",
       "item.vfe.zuckerstange": "Zuckerstange",
-      "item.vfe.apfelmarmelade": "Apfelmarmelade",
-      "item.vfe.marmeladenbrot": "Marmeladenbrot"
+      "item.vfe.apfelmarmeladenbrot": "Apfelmarmeladenbrot",
+      "item.vfe.brotchen": "Brotchen",
+      "item.vfe.apfelmarmelade": "Apfelmarmelade"
     }
   },
   "foldersRoot": {

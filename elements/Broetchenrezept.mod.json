@@ -5,9 +5,9 @@
     "recipeType": "Crafting",
     "xpReward": 0.0,
     "cookingTime": 200,
-    "recipeRetstackSize": 1,
+    "recipeRetstackSize": 2,
     "group": "",
-    "recipeShapeless": false,
+    "recipeShapeless": true,
     "recipeSlots": [
       {
         "value": ""
@@ -22,25 +22,25 @@
         "value": ""
       },
       {
-        "value": "CUSTOM:Apfelmarmelade"
-      },
-      {
-        "value": "Items.BREAD"
-      },
-      {
         "value": ""
       },
       {
         "value": ""
+      },
+      {
+        "value": "Items.WHEAT"
+      },
+      {
+        "value": "Items.WHEAT"
       },
       {
         "value": ""
       }
     ],
     "recipeReturnStack": {
-      "value": "CUSTOM:Apfelmarmeladenbrot"
+      "value": "CUSTOM:Brotchen"
     },
-    "name": "apfelmarmeladenbtorrezept",
+    "name": "broetchenrezept",
     "namespace": "mod"
   }
 }

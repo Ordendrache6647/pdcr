@@ -1,20 +1,16 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "01",
-    " 3"
-  ],
-  "key": {
-    "0": {
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
       "item": "vfe:marmeldenpresse"
     },
-    "1": {
+    {
       "item": "minecraft:sweet_berries"
     },
-    "3": {
+    {
       "item": "minecraft:sweet_berries"
     }
-  },
+  ],
   "result": {
     "item": "vfe:beerenmarmelade",
     "count": 1

@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "vfe:items/beerenmarmeladenbrot"
+    "layer0": "vfe:items/broetchen_textur"
   }
 }
