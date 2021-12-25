@@ -90,13 +90,65 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "zuckerstange"
+    },
+    {
+      "name": "Marmeladenpresserezept",
+      "type": "recipe",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "marmeladenpresserezept"
+    },
+    {
+      "name": "Beerenmarmelade",
+      "type": "item",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "beerenmarmelade"
+    },
+    {
+      "name": "Beerenmarmeladenbrote",
+      "type": "item",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "beerenmarmeladenbrote"
+    },
+    {
+      "name": "Beerenmarmeladenrezept",
+      "type": "recipe",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "beerenmarmeladenrezept"
+    },
+    {
+      "name": "Beerenmarmeladenbtorrezept",
+      "type": "recipe",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "beerenmarmeladenbtorrezept"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "item.vfe.test": "Test"
+      "item.vfe.test": "Test",
+      "item.vfe.marmeldenpresse": "Marmeldenpresse",
+      "item.vfe.beerenmarmeladenbrote": "Beerenmarmeladenbrote",
+      "item.vfe.beerenmarmelade": "Beerenmarmelade",
+      "item.vfe.joghurt": "Joghurt",
+      "item.vfe.zuckerstange": "Zuckerstange",
+      "item.vfe.apfelmarmelade": "Apfelmarmelade",
+      "item.vfe.marmeladenbrot": "Marmeladenbrot"
     }
   },
   "foldersRoot": {

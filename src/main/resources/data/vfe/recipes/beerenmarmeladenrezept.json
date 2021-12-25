@@ -9,14 +9,14 @@
       "item": "vfe:marmeldenpresse"
     },
     "1": {
-      "item": "minecraft:apple"
+      "item": "minecraft:sweet_berries"
     },
     "3": {
-      "item": "minecraft:apple"
+      "item": "minecraft:sweet_berries"
     }
   },
   "result": {
-    "item": "vfe:apfelmarmelade",
+    "item": "vfe:beerenmarmelade",
     "count": 1
   }
 }

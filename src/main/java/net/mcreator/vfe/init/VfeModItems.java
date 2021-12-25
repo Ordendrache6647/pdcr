@@ -15,6 +15,8 @@ import net.mcreator.vfe.item.TestItem;
 import net.mcreator.vfe.item.MarmeldenpresseItem;
 import net.mcreator.vfe.item.MarmeladenbrotItem;
 import net.mcreator.vfe.item.JoghurtItem;
+import net.mcreator.vfe.item.BeerenmarmeladenbroteItem;
+import net.mcreator.vfe.item.BeerenmarmeladeItem;
 import net.mcreator.vfe.item.ApfelmarmeladeItem;
 
 import java.util.List;
@@ -29,6 +31,8 @@ public class VfeModItems {
 	public static final Item APFELMARMELADE = register(new ApfelmarmeladeItem());
 	public static final Item MARMELADENBROT = register(new MarmeladenbrotItem());
 	public static final Item ZUCKERSTANGE = register(new ZuckerstangeItem());
+	public static final Item BEERENMARMELADE = register(new BeerenmarmeladeItem());
+	public static final Item BEERENMARMELADENBROTE = register(new BeerenmarmeladenbroteItem());
 
 	private static Item register(Item item) {
 		REGISTRY.add(item);

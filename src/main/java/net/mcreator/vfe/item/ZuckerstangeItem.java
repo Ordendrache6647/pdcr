@@ -1,8 +1,12 @@
 
 package net.mcreator.vfe.item;
 
-public class ZuckerstangeItem extends Item {
+import net.minecraft.world.item.Rarity;
+import net.minecraft.world.item.Item;
+import net.minecraft.world.item.CreativeModeTab;
+import net.minecraft.world.food.FoodProperties;
 
+public class ZuckerstangeItem extends Item {
 	public ZuckerstangeItem() {
 		super(new Item.Properties().tab(CreativeModeTab.TAB_FOOD).stacksTo(64).rarity(Rarity.COMMON)
 				.food((new FoodProperties.Builder()).nutrition(3).saturationMod(0.4f)
@@ -10,5 +14,4 @@ public class ZuckerstangeItem extends Item {
 						.build()));
 		setRegistryName("zuckerstange");
 	}
-
 }
