@@ -146,6 +146,15 @@
       "registry_name": "brotchen"
     },
     {
+      "name": "Messerrezept",
+      "type": "recipe",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "messerrezept"
+    },
+    {
       "name": "Schneidebrett",
       "type": "item",
       "sortid": 16,
@@ -153,15 +162,6 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "schneidebrett"
-    },
-    {
-      "name": "Messer",
-      "type": "item",
-      "sortid": 17,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "messer"
     },
     {
       "name": "Schneidebrettrezept",
@@ -173,13 +173,13 @@
       "registry_name": "schneidebrettrezept"
     },
     {
-      "name": "Messerrezept",
-      "type": "recipe",
-      "sortid": 18,
+      "name": "Messer",
+      "type": "item",
+      "sortid": 17,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "messerrezept"
+      "registry_name": "messer"
     }
   ],
   "variable_elements": [],
