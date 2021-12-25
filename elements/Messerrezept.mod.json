@@ -7,7 +7,7 @@
     "cookingTime": 200,
     "recipeRetstackSize": 1,
     "group": "",
-    "recipeShapeless": true,
+    "recipeShapeless": false,
     "recipeSlots": [
       {
         "value": ""
@@ -22,7 +22,10 @@
         "value": ""
       },
       {
-        "value": "Items.BUCKET"
+        "value": "Items.IRON_INGOT"
+      },
+      {
+        "value": ""
       },
       {
         "value": "Items.STICK"
@@ -32,15 +35,12 @@
       },
       {
         "value": ""
-      },
-      {
-        "value": ""
       }
     ],
     "recipeReturnStack": {
-      "value": "CUSTOM:Marmeldenpresse"
+      "value": "CUSTOM:Messer"
     },
-    "name": "marmeladenpresserezept",
+    "name": "messerrezept",
     "namespace": "mod"
   }
 }

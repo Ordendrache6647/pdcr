@@ -11,6 +11,8 @@ import net.minecraftforge.event.RegistryEvent;
 import net.minecraft.world.item.Item;
 
 import net.mcreator.vfe.item.ZuckerstangeItem;
+import net.mcreator.vfe.item.SchneidebrettItem;
+import net.mcreator.vfe.item.MesserItem;
 import net.mcreator.vfe.item.MarmeldenpresseItem;
 import net.mcreator.vfe.item.MarmeladenbrotfoodItem;
 import net.mcreator.vfe.item.JoghurtItem;
@@ -33,6 +35,8 @@ public class VfeModItems {
 	public static final Item BEERENMARMELADEBROT = register(new MarmeladenbrotfoodItem());
 	public static final Item APFELMARMELADENBROT = register(new ApfelmarmeladenbrotItem());
 	public static final Item BROTCHEN = register(new BrotchenItem());
+	public static final Item SCHNEIDEBRETT = register(new SchneidebrettItem());
+	public static final Item MESSER = register(new MesserItem());
 
 	private static Item register(Item item) {
 		REGISTRY.add(item);

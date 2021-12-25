@@ -1,16 +1,13 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "01"
-  ],
-  "key": {
-    "0": {
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
       "item": "minecraft:bucket"
     },
-    "1": {
+    {
       "item": "minecraft:stick"
     }
-  },
+  ],
   "result": {
     "item": "vfe:marmeldenpresse",
     "count": 1
