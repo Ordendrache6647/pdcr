@@ -27,6 +27,24 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "joghurtrecipe"
+    },
+    {
+      "name": "Zuckerstange",
+      "type": "food",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "zuckerstange"
+    },
+    {
+      "name": "Zuckerstangerecipe",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "zuckerstangerecipe"
     }
   ],
   "variable_elements": [],
@@ -34,7 +52,8 @@
   "language_map": {
     "en_us": {
       "item.vfe.test": "Test",
-      "item.vfe.joghurt": "Joghurt"
+      "item.vfe.joghurt": "Joghurt",
+      "item.vfe.zuckerstange": "Zuckerstange"
     }
   },
   "foldersRoot": {

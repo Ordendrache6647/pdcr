@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "2 ",
+    "4 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:sugar"
+    },
+    "1": {
+      "item": "minecraft:sugar"
+    },
+    "2": {
+      "item": "minecraft:sugar"
+    },
+    "4": {
+      "item": "minecraft:sugar"
+    }
+  },
+  "result": {
+    "item": "vfe:zuckerstange",
+    "count": 1
+  }
+}
