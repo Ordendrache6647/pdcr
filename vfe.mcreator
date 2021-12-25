@@ -252,6 +252,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "stgemuesesuppe"
+    },
+    {
+      "name": "Salat",
+      "type": "plant",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "salat"
     }
   ],
   "variable_elements": [],
@@ -259,13 +268,14 @@
   "language_map": {
     "en_us": {
       "item.vfe.test": "Test",
+      "block.vfe.salat": "Salat",
       "item.vfe.beerenmarmeladebrot": "Marmeladenbrot (Beeren)",
       "item.vfe.joghurt": "Joghurt",
       "item.vfe.zuckerstange": "Zuckerstange",
       "item.vfe.apfelmarmeladenbrot": "Marmeladenbrot (Apfel)",
       "item.vfe.gemuesesuppe": "Gemüsesuppe",
       "item.vfe.apfelmarmelade": "Apfelmarmelade",
-      "item.vfe.marmeldenpresse": "Marmeldenpresse",
+      "item.vfe.marmeldenpresse": "Presse",
       "item.vfe.beerenmarmelade": "Beerenmarmelade",
       "item.vfe.rbsuppengemuse": "Rotebeetesuppengemüse",
       "item.vfe.schneidebrett": "Schneidebrett",
