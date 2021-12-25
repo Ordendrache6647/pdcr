@@ -21,6 +21,7 @@ import net.mcreator.vfe.item.KurbisscheibeItem;
 import net.mcreator.vfe.item.JoghurtItem;
 import net.mcreator.vfe.item.GemuesesuppeItem;
 import net.mcreator.vfe.item.GebackenerKurbisItem;
+import net.mcreator.vfe.item.GebackeneSamenItem;
 import net.mcreator.vfe.item.BrotchenItem;
 import net.mcreator.vfe.item.BeerensaftItem;
 import net.mcreator.vfe.item.BeerenmarmeladeItem;
@@ -51,6 +52,7 @@ public class VfeModItems {
 	public static final Item BEERENSAFT = register(new BeerensaftItem());
 	public static final Item KURBISSCHEIBE = register(new KurbisscheibeItem());
 	public static final Item GEBACKENER_KURBIS = register(new GebackenerKurbisItem());
+	public static final Item GEBACKENE_SAMEN = register(new GebackeneSamenItem());
 
 	private static Item register(Item item) {
 		REGISTRY.add(item);

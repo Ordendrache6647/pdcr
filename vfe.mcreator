@@ -324,6 +324,51 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "gebackener_kurbis_rezept"
+    },
+    {
+      "name": "GebackeneSamen",
+      "type": "food",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gebackene_samen"
+    },
+    {
+      "name": "Gebackenesamenrezept",
+      "type": "recipe",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gebackenesamenrezept"
+    },
+    {
+      "name": "Gebackenesamenkurbisrezept",
+      "type": "recipe",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gebackenesamenkurbisrezept"
+    },
+    {
+      "name": "Gebackenesamenmelonrezept",
+      "type": "recipe",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gebackenesamenmelonrezept"
+    },
+    {
+      "name": "Gebackenesamenbeetrootrezept",
+      "type": "recipe",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gebackenesamenbeetrootrezept"
     }
   ],
   "variable_elements": [],
@@ -331,8 +376,8 @@
   "language_map": {
     "en_us": {
       "item.vfe.test": "Test",
-      "item.vfe.beerenmarmeladebrot": "Marmeladenbrot (Beeren)",
       "item.vfe.kurbisscheibe": "Kürbisscheibe",
+      "item.vfe.beerenmarmeladebrot": "Marmeladenbrot (Beeren)",
       "item.vfe.joghurt": "Joghurt",
       "item.vfe.zuckerstange": "Zuckerstange",
       "item.vfe.apfelmarmeladenbrot": "Marmeladenbrot (Apfel)",
@@ -348,6 +393,7 @@
       "item.vfe.brotchen": "Brötchen",
       "item.vfe.gebackener_kurbis": "Gebackener Kürbis",
       "item.vfe.messer": "Messer",
+      "item.vfe.gebackene_samen": "Gebackene Samen",
       "item.vfe.marmeladenbrot": "Marmeladenbrot"
     }
   },

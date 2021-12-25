@@ -1,7 +1,7 @@
 {
   "item.vfe.test": "Test",
-  "item.vfe.beerenmarmeladebrot": "Marmeladenbrot (Beeren)",
   "item.vfe.kurbisscheibe": "Kürbisscheibe",
+  "item.vfe.beerenmarmeladebrot": "Marmeladenbrot (Beeren)",
   "item.vfe.joghurt": "Joghurt",
   "item.vfe.zuckerstange": "Zuckerstange",
   "item.vfe.apfelmarmeladenbrot": "Marmeladenbrot (Apfel)",
@@ -17,5 +17,6 @@
   "item.vfe.brotchen": "Brötchen",
   "item.vfe.gebackener_kurbis": "Gebackener Kürbis",
   "item.vfe.messer": "Messer",
+  "item.vfe.gebackene_samen": "Gebackene Samen",
   "item.vfe.marmeladenbrot": "Marmeladenbrot"
 }
