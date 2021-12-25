@@ -11,7 +11,6 @@ import net.minecraftforge.event.RegistryEvent;
 import net.minecraft.world.item.Item;
 
 import net.mcreator.vfe.item.ZuckerstangeItem;
-import net.mcreator.vfe.item.StgemuesesuppeItem;
 import net.mcreator.vfe.item.SchneidebrettItem;
 import net.mcreator.vfe.item.RbsuppengemuseItem;
 import net.mcreator.vfe.item.MesserItem;
@@ -42,7 +41,6 @@ public class VfeModItems {
 	public static final Item MESSER = register(new MesserItem());
 	public static final Item RBSUPPENGEMUSE = register(new RbsuppengemuseItem());
 	public static final Item GEMUESESUPPE = register(new GemuesesuppeItem());
-	public static final Item STGEMUESESUPPE = register(new StgemuesesuppeItem());
 
 	private static Item register(Item item) {
 		REGISTRY.add(item);
