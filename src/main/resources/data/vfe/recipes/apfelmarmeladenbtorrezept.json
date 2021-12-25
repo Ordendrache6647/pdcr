@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01"
+  ],
+  "key": {
+    "0": {
+      "item": "vfe:apfelmarmelade"
+    },
+    "1": {
+      "item": "minecraft:bread"
+    }
+  },
+  "result": {
+    "item": "vfe:marmeladenbrot",
+    "count": 1
+  }
+}

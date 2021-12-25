@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    " 3"
+  ],
+  "key": {
+    "0": {
+      "item": "vfe:marmeldenpresse"
+    },
+    "1": {
+      "item": "minecraft:apple"
+    },
+    "3": {
+      "item": "minecraft:apple"
+    }
+  },
+  "result": {
+    "item": "vfe:apfelmarmelade",
+    "count": 1
+  }
+}

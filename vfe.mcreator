@@ -9,13 +9,61 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "test"
+    },
+    {
+      "name": "Marmeldenpresse",
+      "type": "item",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "marmeldenpresse"
+    },
+    {
+      "name": "Apfelmarmelade",
+      "type": "item",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "apfelmarmelade"
+    },
+    {
+      "name": "Marmeladenbrot",
+      "type": "item",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "marmeladenbrot"
+    },
+    {
+      "name": "Apfelmarmeladenrezept",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "apfelmarmeladenrezept"
+    },
+    {
+      "name": "Apfelmarmeladenbtorrezept",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "apfelmarmeladenbtorrezept"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "item.vfe.test": "Test"
+      "item.vfe.test": "Test",
+      "item.vfe.marmeldenpresse": "Marmeldenpresse",
+      "item.vfe.apfelmarmelade": "Apfelmarmelade",
+      "item.vfe.marmeladenbrot": "Marmeladenbrot"
     }
   },
   "foldersRoot": {
