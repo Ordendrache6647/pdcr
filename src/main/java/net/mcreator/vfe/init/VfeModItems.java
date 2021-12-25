@@ -12,11 +12,9 @@ import net.minecraft.world.item.Item;
 
 import net.mcreator.vfe.item.ZuckerstangeItem;
 import net.mcreator.vfe.item.MarmeldenpresseItem;
-import net.mcreator.vfe.item.MarmeladenbrotneuItem;
 import net.mcreator.vfe.item.MarmeladenbrotfoodItem;
 import net.mcreator.vfe.item.JoghurtItem;
 import net.mcreator.vfe.item.BrotchenItem;
-import net.mcreator.vfe.item.BeerenmarmeladenbrotItem;
 import net.mcreator.vfe.item.BeerenmarmeladeItem;
 import net.mcreator.vfe.item.ApfelmarmeladenbrotItem;
 import net.mcreator.vfe.item.ApfelmarmeladeItem;
@@ -32,9 +30,7 @@ public class VfeModItems {
 	public static final Item APFELMARMELADE = register(new ApfelmarmeladeItem());
 	public static final Item ZUCKERSTANGE = register(new ZuckerstangeItem());
 	public static final Item BEERENMARMELADE = register(new BeerenmarmeladeItem());
-	public static final Item MARMELADENBROTNEU = register(new MarmeladenbrotneuItem());
 	public static final Item BEERENMARMELADEBROT = register(new MarmeladenbrotfoodItem());
-	public static final Item BEERENMARMELADENBROT = register(new BeerenmarmeladenbrotItem());
 	public static final Item APFELMARMELADENBROT = register(new ApfelmarmeladenbrotItem());
 	public static final Item BROTCHEN = register(new BrotchenItem());
 

@@ -2,8 +2,11 @@
   "item.vfe.test": "Test",
   "item.vfe.marmeldenpresse": "Marmeldenpresse",
   "item.vfe.beerenmarmelade": "Beerenmarmelade",
+  "item.vfe.beerenmarmeladebrot": "Marmeladenbrot (Beeren)",
   "item.vfe.joghurt": "Joghurt",
   "item.vfe.zuckerstange": "Zuckerstange",
+  "item.vfe.apfelmarmeladenbrot": "Marmeladenbrot (Apfel)",
+  "item.vfe.brotchen": "Brotchen",
   "item.vfe.apfelmarmelade": "Apfelmarmelade",
   "item.vfe.marmeladenbrot": "Marmeladenbrot"
 }
