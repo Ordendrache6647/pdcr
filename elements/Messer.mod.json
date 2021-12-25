@@ -3,7 +3,7 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "messer",
+    "texture": "kochmesser",
     "customModelName": "Normal",
     "name": "Messer",
     "rarity": "COMMON",
