@@ -10,9 +10,11 @@ import net.minecraftforge.event.RegistryEvent;
 
 import net.minecraft.world.item.Item;
 
+import net.mcreator.vfe.item.ZuckerstangeItem;
 import net.mcreator.vfe.item.TestItem;
 import net.mcreator.vfe.item.MarmeldenpresseItem;
 import net.mcreator.vfe.item.MarmeladenbrotItem;
+import net.mcreator.vfe.item.JoghurtItem;
 import net.mcreator.vfe.item.ApfelmarmeladeItem;
 
 import java.util.List;
@@ -23,8 +25,10 @@ public class VfeModItems {
 	private static final List<Item> REGISTRY = new ArrayList<>();
 	public static final Item TEST = register(new TestItem());
 	public static final Item MARMELDENPRESSE = register(new MarmeldenpresseItem());
+	public static final Item JOGHURT = register(new JoghurtItem());
 	public static final Item APFELMARMELADE = register(new ApfelmarmeladeItem());
 	public static final Item MARMELADENBROT = register(new MarmeladenbrotItem());
+	public static final Item ZUCKERSTANGE = register(new ZuckerstangeItem());
 
 	private static Item register(Item item) {
 		REGISTRY.add(item);

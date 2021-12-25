@@ -1,0 +1,35 @@
+
+package net.mcreator.vfe.item;
+
+public class JoghurtItem extends Item {
+
+	public JoghurtItem() {
+		super(new Item.Properties().tab(CreativeModeTab.TAB_FOOD).stacksTo(64).rarity(Rarity.COMMON)
+				.food((new FoodProperties.Builder()).nutrition(10).saturationMod(0.7000000000000001f)
+
+						.build()));
+		setRegistryName("joghurt");
+	}
+
+	@Override
+	public UseAnim getUseAnimation(ItemStack itemstack) {
+		return UseAnim.DRINK;
+	}
+
+	@Override
+	public ItemStack finishUsingItem(ItemStack itemstack, Level world, LivingEntity entity) {
+		ItemStack retval = new ItemStack(Items.BOWL);
+		super.finishUsingItem(itemstack, world, entity);
+
+		if (itemstack.isEmpty()) {
+			return retval;
+		} else {
+			if (entity instanceof Player player && !player.getAbilities().instabuild) {
+				if (!player.getInventory().add(retval))
+					player.drop(retval, false);
+			}
+			return itemstack;
+		}
+	}
+
+}

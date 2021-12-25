@@ -11,15 +11,6 @@
       "registry_name": "test"
     },
     {
-      "name": "Marmeldenpresse",
-      "type": "item",
-      "sortid": 2,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "marmeldenpresse"
-    },
-    {
       "name": "Apfelmarmelade",
       "type": "item",
       "sortid": 3,
@@ -47,6 +38,15 @@
       "registry_name": "apfelmarmeladenrezept"
     },
     {
+      "name": "Marmeldenpresse",
+      "type": "item",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "marmeldenpresse"
+    },
+    {
       "name": "Apfelmarmeladenbtorrezept",
       "type": "recipe",
       "sortid": 6,
@@ -54,16 +54,49 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "apfelmarmeladenbtorrezept"
+    },
+    {
+      "name": "Joghurt",
+      "type": "food",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "joghurt"
+    },
+    {
+      "name": "Zuckerstangerecipe",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "zuckerstangerecipe"
+    },
+    {
+      "name": "Joghurtrecipe",
+      "type": "recipe",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "joghurtrecipe"
+    },
+    {
+      "name": "Zuckerstange",
+      "type": "food",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "zuckerstange"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "item.vfe.test": "Test",
-      "item.vfe.marmeldenpresse": "Marmeldenpresse",
-      "item.vfe.apfelmarmelade": "Apfelmarmelade",
-      "item.vfe.marmeladenbrot": "Marmeladenbrot"
+      "item.vfe.test": "Test"
     }
   },
   "foldersRoot": {
