@@ -9,13 +9,32 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "test"
+    },
+    {
+      "name": "Joghurt",
+      "type": "food",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "joghurt"
+    },
+    {
+      "name": "Joghurtrecipe",
+      "type": "recipe",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "joghurtrecipe"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "item.vfe.test": "Test"
+      "item.vfe.test": "Test",
+      "item.vfe.joghurt": "Joghurt"
     }
   },
   "foldersRoot": {
