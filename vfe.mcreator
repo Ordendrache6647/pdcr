@@ -486,6 +486,42 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "gebratenerrotpilzrezept"
+    },
+    {
+      "name": "Stampfer",
+      "type": "item",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stampfer"
+    },
+    {
+      "name": "Stampferrezept",
+      "type": "recipe",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stampferrezept"
+    },
+    {
+      "name": "Butter",
+      "type": "item",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "butter"
+    },
+    {
+      "name": "Butterrezept",
+      "type": "recipe",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "butterrezept"
     }
   ],
   "variable_elements": [],
@@ -499,6 +535,7 @@
       "item.vfe.schokolade": "Schokolade",
       "item.vfe.gemuesesuppe": "Gemüsesuppe",
       "item.vfe.apfelmarmelade": "Apfelmarmelade",
+      "item.vfe.stampfer": "Stampfer",
       "item.vfe.beerenmarmelade": "Beerenmarmelade",
       "item.vfe.brotchen": "Brötchen",
       "item.vfe.gebackener_kurbis": "Gebackener Kürbis",
@@ -510,6 +547,7 @@
       "item.vfe.zuckerstange": "Zuckerstange",
       "item.vfe.apfelsaft": "Apfelsaft",
       "item.vfe.marmeldenpresse": "Presse",
+      "item.vfe.butter": "Butter",
       "item.vfe.beerensaft": "Beerensaft",
       "item.vfe.rbsuppengemuse": "Suppengemüse",
       "item.vfe.schneidebrett": "Schneidebrett",
