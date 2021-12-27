@@ -23,6 +23,7 @@ import net.mcreator.vfe.item.MesserItem;
 import net.mcreator.vfe.item.MarmeldenpresseItem;
 import net.mcreator.vfe.item.MarmeladenbrotfoodItem;
 import net.mcreator.vfe.item.KurbisscheibeItem;
+import net.mcreator.vfe.item.KakaoItem;
 import net.mcreator.vfe.item.JoghurtItem;
 import net.mcreator.vfe.item.GemuesesuppeItem;
 import net.mcreator.vfe.item.GebratenerrotpilzItem;
@@ -69,6 +70,7 @@ public class VfeModItems {
 	public static final Item GEBRATENERROTPILZ = register(new GebratenerrotpilzItem());
 	public static final Item STAMPFER = register(new StampferItem());
 	public static final Item BUTTER = register(new ButterItem());
+	public static final Item KAKAO = register(new KakaoItem());
 
 	private static Item register(Item item) {
 		REGISTRY.add(item);

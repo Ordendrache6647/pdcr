@@ -522,6 +522,24 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "butterrezept"
+    },
+    {
+      "name": "Kakao",
+      "type": "food",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "kakao"
+    },
+    {
+      "name": "Kakaorezept",
+      "type": "recipe",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "kakaorezept"
     }
   ],
   "variable_elements": [],
@@ -531,11 +549,12 @@
       "item.vfe.test": "Test",
       "block.vfe.salat": "Salat",
       "item.vfe.beerenmarmeladebrot": "Marmeladenbrot (Beeren)",
+      "item.vfe.kakao": "Kakao",
       "item.vfe.joghurt": "Joghurt",
       "item.vfe.schokolade": "Schokolade",
       "item.vfe.gemuesesuppe": "Gemüsesuppe",
-      "item.vfe.apfelmarmelade": "Apfelmarmelade",
       "item.vfe.stampfer": "Stampfer",
+      "item.vfe.apfelmarmelade": "Apfelmarmelade",
       "item.vfe.beerenmarmelade": "Beerenmarmelade",
       "item.vfe.brotchen": "Brötchen",
       "item.vfe.gebackener_kurbis": "Gebackener Kürbis",
