@@ -24,6 +24,8 @@ import net.mcreator.vfe.item.MarmeladenbrotfoodItem;
 import net.mcreator.vfe.item.KurbisscheibeItem;
 import net.mcreator.vfe.item.JoghurtItem;
 import net.mcreator.vfe.item.GemuesesuppeItem;
+import net.mcreator.vfe.item.GebratenerrotpilzItem;
+import net.mcreator.vfe.item.GebratenerbraunpilzItem;
 import net.mcreator.vfe.item.GebackenerKurbisItem;
 import net.mcreator.vfe.item.GebackeneSamenItem;
 import net.mcreator.vfe.item.FleischspiesItem;
@@ -61,6 +63,8 @@ public class VfeModItems {
 	public static final Item GEBACKENE_SAMEN = register(new GebackeneSamenItem());
 	public static final Item SCHOKOLADE = register(new SchokoladeItem());
 	public static final Item FLEISCHSPIES = register(new FleischspiesItem());
+	public static final Item GEBRATENERBRAUNPILZ = register(new GebratenerbraunpilzItem());
+	public static final Item GEBRATENERROTPILZ = register(new GebratenerrotpilzItem());
 
 	private static Item register(Item item) {
 		REGISTRY.add(item);

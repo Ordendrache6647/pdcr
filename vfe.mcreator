@@ -450,6 +450,42 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "fleischspiesvariante_5"
+    },
+    {
+      "name": "Gebratenerbraunpilz",
+      "type": "food",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gebratenerbraunpilz"
+    },
+    {
+      "name": "Gebratenerbraunerpilz",
+      "type": "recipe",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gebratenerbraunerpilz"
+    },
+    {
+      "name": "Gebratenerrotpilz",
+      "type": "food",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gebratenerrotpilz"
+    },
+    {
+      "name": "Gebratenerrotpilzrezept",
+      "type": "recipe",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gebratenerrotpilzrezept"
     }
   ],
   "variable_elements": [],
@@ -457,25 +493,27 @@
   "language_map": {
     "en_us": {
       "item.vfe.test": "Test",
-      "item.vfe.fleischspies": "Fleischspieß",
       "block.vfe.salat": "Salat",
       "item.vfe.beerenmarmeladebrot": "Marmeladenbrot (Beeren)",
-      "item.vfe.kurbisscheibe": "Kürbisscheibe",
       "item.vfe.joghurt": "Joghurt",
       "item.vfe.schokolade": "Schokolade",
-      "item.vfe.zuckerstange": "Zuckerstange",
-      "item.vfe.apfelmarmeladenbrot": "Marmeladenbrot (Apfel)",
       "item.vfe.gemuesesuppe": "Gemüsesuppe",
       "item.vfe.apfelmarmelade": "Apfelmarmelade",
+      "item.vfe.beerenmarmelade": "Beerenmarmelade",
+      "item.vfe.brotchen": "Brötchen",
+      "item.vfe.gebackener_kurbis": "Gebackener Kürbis",
+      "item.vfe.fleischspies": "Fleischspieß",
+      "item.vfe.gebratenerrotpilz": "Gebratener Pilz",
+      "item.vfe.kurbisscheibe": "Kürbisscheibe",
+      "item.vfe.gebratenerbraunpilz": "Gebratener Pilz",
+      "item.vfe.apfelmarmeladenbrot": "Marmeladenbrot (Apfel)",
+      "item.vfe.zuckerstange": "Zuckerstange",
       "item.vfe.apfelsaft": "Apfelsaft",
       "item.vfe.marmeldenpresse": "Presse",
-      "item.vfe.beerenmarmelade": "Beerenmarmelade",
       "item.vfe.beerensaft": "Beerensaft",
       "item.vfe.rbsuppengemuse": "Suppengemüse",
       "item.vfe.schneidebrett": "Schneidebrett",
       "item.vfe.stgemuesesuppe": "Fleischeintopf",
-      "item.vfe.brotchen": "Brötchen",
-      "item.vfe.gebackener_kurbis": "Gebackener Kürbis",
       "item.vfe.messer": "Messer",
       "item.vfe.gebackene_samen": "Gebackene Samen",
       "item.vfe.marmeladenbrot": "Marmeladenbrot"
