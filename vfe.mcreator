@@ -378,6 +378,78 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "salat"
+    },
+    {
+      "name": "Schokolade",
+      "type": "food",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "schokolade"
+    },
+    {
+      "name": "Fleischspies",
+      "type": "food",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fleischspies"
+    },
+    {
+      "name": "Fleischspiesvariante1",
+      "type": "recipe",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fleischspiesvariante_1"
+    },
+    {
+      "name": "Fleischspiesvariante2",
+      "type": "recipe",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fleischspiesvariante_2"
+    },
+    {
+      "name": "Fleischspiesvariante3",
+      "type": "recipe",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fleischspiesvariante_3"
+    },
+    {
+      "name": "Fleischspiesvariante4",
+      "type": "recipe",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fleischspiesvariante_4"
+    },
+    {
+      "name": "SchokoladeRezept",
+      "type": "recipe",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "schokolade_rezept"
+    },
+    {
+      "name": "Fleischspiesvariante5",
+      "type": "recipe",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fleischspiesvariante_5"
     }
   ],
   "variable_elements": [],
@@ -385,10 +457,12 @@
   "language_map": {
     "en_us": {
       "item.vfe.test": "Test",
+      "item.vfe.fleischspies": "Fleischspieß",
       "block.vfe.salat": "Salat",
       "item.vfe.beerenmarmeladebrot": "Marmeladenbrot (Beeren)",
       "item.vfe.kurbisscheibe": "Kürbisscheibe",
       "item.vfe.joghurt": "Joghurt",
+      "item.vfe.schokolade": "Schokolade",
       "item.vfe.zuckerstange": "Zuckerstange",
       "item.vfe.apfelmarmeladenbrot": "Marmeladenbrot (Apfel)",
       "item.vfe.gemuesesuppe": "Gemüsesuppe",

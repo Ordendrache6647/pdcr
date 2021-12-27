@@ -15,6 +15,7 @@ import net.minecraft.world.item.BlockItem;
 
 import net.mcreator.vfe.item.ZuckerstangeItem;
 import net.mcreator.vfe.item.StgemuesesuppeItem;
+import net.mcreator.vfe.item.SchokoladeItem;
 import net.mcreator.vfe.item.SchneidebrettItem;
 import net.mcreator.vfe.item.RbsuppengemuseItem;
 import net.mcreator.vfe.item.MesserItem;
@@ -25,6 +26,7 @@ import net.mcreator.vfe.item.JoghurtItem;
 import net.mcreator.vfe.item.GemuesesuppeItem;
 import net.mcreator.vfe.item.GebackenerKurbisItem;
 import net.mcreator.vfe.item.GebackeneSamenItem;
+import net.mcreator.vfe.item.FleischspiesItem;
 import net.mcreator.vfe.item.BrotchenItem;
 import net.mcreator.vfe.item.BeerensaftItem;
 import net.mcreator.vfe.item.BeerenmarmeladeItem;
@@ -57,6 +59,8 @@ public class VfeModItems {
 	public static final Item KURBISSCHEIBE = register(new KurbisscheibeItem());
 	public static final Item GEBACKENER_KURBIS = register(new GebackenerKurbisItem());
 	public static final Item GEBACKENE_SAMEN = register(new GebackeneSamenItem());
+	public static final Item SCHOKOLADE = register(new SchokoladeItem());
+	public static final Item FLEISCHSPIES = register(new FleischspiesItem());
 
 	private static Item register(Item item) {
 		REGISTRY.add(item);
