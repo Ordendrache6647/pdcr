@@ -8,18 +8,18 @@ import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.eventbus.api.SubscribeEvent;
 import net.minecraftforge.event.RegistryEvent;
 
-import net.minecraft.world.level.block.Block;
 import net.minecraft.world.item.Item;
-import net.minecraft.world.item.CreativeModeTab;
-import net.minecraft.world.item.BlockItem;
 
 import net.mcreator.vfe.item.ZuckerstangeItem;
+import net.mcreator.vfe.item.TeigItem;
 import net.mcreator.vfe.item.StgemuesesuppeItem;
 import net.mcreator.vfe.item.StampferItem;
+import net.mcreator.vfe.item.SchokoteigItem;
 import net.mcreator.vfe.item.SchokoladeItem;
 import net.mcreator.vfe.item.SchneidebrettItem;
 import net.mcreator.vfe.item.RbsuppengemuseItem;
 import net.mcreator.vfe.item.MesserItem;
+import net.mcreator.vfe.item.MehlItem;
 import net.mcreator.vfe.item.MarmeldenpresseItem;
 import net.mcreator.vfe.item.MarmeladenbrotfoodItem;
 import net.mcreator.vfe.item.KurbisscheibeItem;
@@ -32,6 +32,7 @@ import net.mcreator.vfe.item.GebackenerKurbisItem;
 import net.mcreator.vfe.item.GebackeneSamenItem;
 import net.mcreator.vfe.item.FleischspiesItem;
 import net.mcreator.vfe.item.ButterItem;
+import net.mcreator.vfe.item.BrownieItem;
 import net.mcreator.vfe.item.BrotchenItem;
 import net.mcreator.vfe.item.BeerensaftItem;
 import net.mcreator.vfe.item.BeerenmarmeladeItem;
@@ -59,7 +60,6 @@ public class VfeModItems {
 	public static final Item GEMUESESUPPE = register(new GemuesesuppeItem());
 	public static final Item STGEMUESESUPPE = register(new StgemuesesuppeItem());
 	public static final Item APFELSAFT = register(new ApfelsaftItem());
-	public static final Item SALAT = register(VfeModBlocks.SALAT, CreativeModeTab.TAB_FOOD);
 	public static final Item BEERENSAFT = register(new BeerensaftItem());
 	public static final Item KURBISSCHEIBE = register(new KurbisscheibeItem());
 	public static final Item GEBACKENER_KURBIS = register(new GebackenerKurbisItem());
@@ -71,14 +71,14 @@ public class VfeModItems {
 	public static final Item STAMPFER = register(new StampferItem());
 	public static final Item BUTTER = register(new ButterItem());
 	public static final Item KAKAO = register(new KakaoItem());
+	public static final Item MEHL = register(new MehlItem());
+	public static final Item TEIG = register(new TeigItem());
+	public static final Item SCHOKOTEIG = register(new SchokoteigItem());
+	public static final Item BROWNIE = register(new BrownieItem());
 
 	private static Item register(Item item) {
 		REGISTRY.add(item);
 		return item;
-	}
-
-	private static Item register(Block block, CreativeModeTab tab) {
-		return register(new BlockItem(block, new Item.Properties().tab(tab)).setRegistryName(block.getRegistryName()));
 	}
 
 	@SubscribeEvent

@@ -9,12 +9,12 @@
     "group": "",
     "recipeShapeless": false,
     "smeltingInputStack": {
-      "value": "CUSTOM:Teig"
+      "value": "CUSTOM:Schokoteig"
     },
     "smeltingReturnStack": {
-      "value": "CUSTOM:Brotchen"
+      "value": "CUSTOM:Brownie"
     },
-    "name": "broetchenrezept",
+    "name": "brownies",
     "namespace": "mod"
   }
 }

@@ -371,15 +371,6 @@
       "registry_name": "gebackenesamenmelonrezept"
     },
     {
-      "name": "Salat",
-      "type": "plant",
-      "sortid": 27,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "salat"
-    },
-    {
       "name": "Schokolade",
       "type": "food",
       "sortid": 40,
@@ -540,6 +531,78 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "kakaorezept"
+    },
+    {
+      "name": "Mehl",
+      "type": "item",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mehl"
+    },
+    {
+      "name": "Teig",
+      "type": "item",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "teig"
+    },
+    {
+      "name": "Teigrezept",
+      "type": "recipe",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "teigrezept"
+    },
+    {
+      "name": "Mehlrezept",
+      "type": "recipe",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mehlrezept"
+    },
+    {
+      "name": "Schokoteig",
+      "type": "item",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "schokoteig"
+    },
+    {
+      "name": "Brownie",
+      "type": "food",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "brownie"
+    },
+    {
+      "name": "Brownies",
+      "type": "recipe",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "brownies"
+    },
+    {
+      "name": "Schokoteigrezept",
+      "type": "recipe",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "schokoteigrezept"
     }
   ],
   "variable_elements": [],
@@ -547,20 +610,23 @@
   "language_map": {
     "en_us": {
       "item.vfe.test": "Test",
-      "block.vfe.salat": "Salat",
+      "item.vfe.teig": "Teig",
       "item.vfe.beerenmarmeladebrot": "Marmeladenbrot (Beeren)",
       "item.vfe.kakao": "Kakao",
       "item.vfe.joghurt": "Joghurt",
       "item.vfe.schokolade": "Schokolade",
       "item.vfe.gemuesesuppe": "Gemüsesuppe",
-      "item.vfe.apfelmarmelade": "Apfelmarmelade",
+      "item.vfe.schokoteig": "Schokoteig",
       "item.vfe.stampfer": "Stampfer",
+      "item.vfe.apfelmarmelade": "Apfelmarmelade",
+      "item.vfe.mehl": "Mehl",
       "item.vfe.beerenmarmelade": "Beerenmarmelade",
       "item.vfe.brotchen": "Brötchen",
       "item.vfe.gebackener_kurbis": "Gebackener Kürbis",
       "item.vfe.fleischspies": "Fleischspieß",
       "item.vfe.gebratenerrotpilz": "Gebratener Pilz",
       "item.vfe.kurbisscheibe": "Kürbisscheibe",
+      "item.vfe.brownie": "Brownies",
       "item.vfe.gebratenerbraunpilz": "Gebratener Pilz",
       "item.vfe.apfelmarmeladenbrot": "Marmeladenbrot (Apfel)",
       "item.vfe.zuckerstange": "Zuckerstange",

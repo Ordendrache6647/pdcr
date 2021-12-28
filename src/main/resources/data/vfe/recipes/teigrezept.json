@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "vfe:mehl"
+    },
+    {
+      "item": "vfe:mehl"
+    },
+    {
+      "item": "vfe:mehl"
+    },
+    {
+      "item": "vfe:mehl"
+    },
+    {
+      "item": "minecraft:water_bucket"
+    },
+    {
+      "item": "vfe:mehl"
+    },
+    {
+      "item": "vfe:mehl"
+    },
+    {
+      "item": "vfe:mehl"
+    },
+    {
+      "item": "vfe:mehl"
+    }
+  ],
+  "result": {
+    "item": "vfe:teig",
+    "count": 8
+  }
+}
