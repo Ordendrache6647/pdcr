@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "vfe:melonensaft"
+    },
+    {
+      "item": "vfe:beerensaft"
+    },
+    {
+      "item": "vfe:apfelsaft"
+    }
+  ],
+  "result": {
+    "item": "vfe:multivitaminsaft",
+    "count": 2
+  }
+}

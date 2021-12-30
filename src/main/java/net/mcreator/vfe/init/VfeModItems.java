@@ -18,7 +18,9 @@ import net.mcreator.vfe.item.SchokoteigItem;
 import net.mcreator.vfe.item.SchokoladeItem;
 import net.mcreator.vfe.item.SchneidebrettItem;
 import net.mcreator.vfe.item.RbsuppengemuseItem;
+import net.mcreator.vfe.item.MultivitaminsaftItem;
 import net.mcreator.vfe.item.MesserItem;
+import net.mcreator.vfe.item.MelonensaftItem;
 import net.mcreator.vfe.item.MehlItem;
 import net.mcreator.vfe.item.MarmeldenpresseItem;
 import net.mcreator.vfe.item.MarmeladenbrotfoodItem;
@@ -75,6 +77,8 @@ public class VfeModItems {
 	public static final Item TEIG = register(new TeigItem());
 	public static final Item SCHOKOTEIG = register(new SchokoteigItem());
 	public static final Item BROWNIE = register(new BrownieItem());
+	public static final Item MELONENSAFT = register(new MelonensaftItem());
+	public static final Item MULTIVITAMINSAFT = register(new MultivitaminsaftItem());
 
 	private static Item register(Item item) {
 		REGISTRY.add(item);

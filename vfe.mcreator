@@ -535,6 +535,38 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "schokoteigrezept"
+    },
+    {
+      "name": "Melonensaftrezept",
+      "type": "recipe",
+      "sortid": 64,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "melonensaftrezept"
+    },
+    {
+      "name": "Melonensaft",
+      "type": "food",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "melonensaft"
+    },
+    {
+      "name": "Multivitaminsaft",
+      "type": "food",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "multivitaminsaft"
+    },
+    {
+      "name": "Multivitaminrezept",
+      "type": "recipe",
+      "sortid": 67,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "multivitaminrezept"
     }
   ],
   "variable_elements": [],
@@ -551,8 +583,10 @@
       "item.vfe.schokoteig": "Schokoteig",
       "item.vfe.stampfer": "Stampfer",
       "item.vfe.apfelmarmelade": "Apfelmarmelade",
+      "item.vfe.multivitaminsaft": "Multivitaminsaft",
       "item.vfe.mehl": "Mehl",
       "item.vfe.beerenmarmelade": "Beerenmarmelade",
+      "item.vfe.melonensaft": "Melonensaft",
       "item.vfe.brotchen": "Brötchen",
       "item.vfe.gebackener_kurbis": "Gebackener Kürbis",
       "item.vfe.fleischspies": "Fleischspieß",
